@@ -157,6 +157,6 @@ func _on_file_dialog_dir_selected(dir: String) -> void:
 			return
 
 		print_rich("[color=#00ff0095]SymLinker: Successfully linked \"%s\" in \"%s\" [/color]" % [src_dir, dst_dir])
-		EditorInterface.get_resource_filesystem().scan()
+		EditorInterface.get_resource_filesystem().scan_sources()
 	else:
 		print("SymLinker: ERROR: No dir selected.")
