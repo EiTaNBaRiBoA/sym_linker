@@ -2,7 +2,7 @@
 
 # Sym Linker
 
-<img alt="Sym Linker Logo - two folders with a linked chain in the middle." src="https://github.com/GodotModding/godot-mod-tool/blob/main/icon.png" width="256" />
+<img alt="Sym Linker Logo - two folders with a linked chain in the middle." src="https://github.com/KANAjetzt/sym_linker/blob/main/icon.png" width="256" />
 
 <br />
 <br />
