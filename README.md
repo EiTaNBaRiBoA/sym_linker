@@ -33,5 +33,6 @@ Even more convenient, you can install the addon from the AssetLib.
 
 ## Usage
 
-1. Right click on a file or directory in the FileSystem dock to see the context action.
-1. Select the directory you want to link
+1. Right-click on a file or directory in the FileSystem dock to access the context menu, select "SymLinker: Create Sym-Link.
+1. Select the directory you want to link.
+1. A symbolic link (symlink) from the selected source directory will be created inside the directory you initially right-clicked.
