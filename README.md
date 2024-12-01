@@ -13,7 +13,10 @@ A small plugin that allows the creation of symbolic links with a simple right cl
 
 ## Features:
 
-- Adds a right click context action for creating symbolic links.
+- Adds a right click context action for creating symbolic links. <br/>
+<br/>
+
+![right_click](https://github.com/user-attachments/assets/d1edb7af-c834-4b5a-a18e-200c6c9da8a6)
 
 ## Installation
 
