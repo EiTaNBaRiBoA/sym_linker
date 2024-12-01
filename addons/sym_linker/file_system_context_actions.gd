@@ -101,7 +101,8 @@ func handle_sym_linking(metadata: Dictionary) -> void:
 	dst_dir = dir
 
 	if not src_dir.is_empty():
-		file_dialog.current_dir = src_dir
+		var split := src_dir.split("/")
+		file_dialog.current_dir = src_dir.trim_suffix(split[-1])
 
 	file_dialog.popup_centered()
 
