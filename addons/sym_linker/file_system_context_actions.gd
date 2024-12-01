@@ -73,9 +73,9 @@ func add_custom_context_actions(context_menu: PopupMenu, file_path: String) -> v
 		file_path,
 		ContextActionOptions.new(
 			&"ExternalLink",
-			"Create Sym-Link",
+			"Create symlink",
 			&"sym_link_dir",
-			"Create a Sym-Link at"
+			"Create a symlink at"
 		)
 	)
 
